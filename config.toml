@@ -1,12 +1,12 @@
 ############################# Base configuration #############################
-baseURL = "https://unicef.github.io/inventory/"
-title = "UNICEF O.S. Inventory"
+baseURL = "https://nolski.github.io/open-work-megalist/"
+title = "Open Work Mega List"
 theme = "inventory"
 enableEmoji = true
 enableGitInfo = true
 
 # Google Analytics
-googleAnalytics = "G-80FMX4TPM0"
+# googleAnalytics = "G-80FMX4TPM0"
 
 
 ############################# Security configuration #############################
@@ -101,56 +101,15 @@ hasChildren = true
     weight = 130
 
 
-[[menu.main]]
-weight = 30
-name = "cohorts"
-url = "cohorts"
-hasChildren = true
-
-  [[menu.main]]
-    parent = "cohorts"
-    name = "All"
-    url = "cohorts"
-    weight = 10
-
-  [[menu.main]]
-    parent = "cohorts"
-    name = "Blockchain"
-    url = "cohorts/blockchain"
-    weight = 20
-
-  [[menu.main]]
-    parent = "cohorts"
-    name = "Drones"
-    url = "cohorts/drones"
-    weight = 40
-
-  [[menu.main]]
-    parent = "cohorts"
-    name = "Data Science & AI"
-    url = "cohorts/ds-ai"
-    weight = 30
-
-  [[menu.main]]
-    parent = "cohorts"
-    name = "VR + AR"
-    url = "cohorts/vr-ar"
-    weight = 50
-
-  [[menu.main]]
-    parent = "cohorts"
-    name = "Others"
-    url = "cohorts/others"
-    weight = 60
 
 
 ############################# Default parameters #############################
 [params]
-logo = "images/unicef-logo.png"
+logo = ""
 
 # OpenGraph / Twitter Card metadata
-description = "UNICEF Open Source Inventory. A UNICEF Global Innovation knowledge base of best practices and resources for working and leading Open."
-author = "Justin W. Flory, UNICEF Office of Innovation, and others"
+description = "The goal of this project is to get a broad understanding of the landscape of Open Work in Academia. It's this board is meant to be messy but allow for reasonably easy grouping of various organizations together, identifying key stakeholders within these organizations, and show everything in one place. It's all in progress and will hopefully result in a more structured output after a series of interviews with folks who are experts in the field of Open Work in academia."
+author = "Mike Nolan, Open@RIT"
 image = "images/UNI309823.jpg"
 
 # customize color
@@ -172,43 +131,31 @@ contact_form_action = "#"
 article_count = 3
 
 
-############################# DPGs #############################
-[[params.dpgs]]
-  dpg1 = "Relevance to Sustainable Development Goals"
-  dpg2 = "Use of Approved Open Licenses"
-  dpg3 = "Clear Ownership"
-  dpg4 = "Platform Independence"
-  dpg5 = "Documentation"
-  dpg6 = "Mechanism for Extracting Data"
-  dpg7 = "Adherence to Privacy and Applicable Laws"
-  dpg8 = "Adherence to Standards & Best Practices"
-  dpg9 = "Do No Harm by Design"
-
 
 ############################# Brand & identity #############################
 [params.brand]
-parent_org_name = "UNICEF Global"
-parent_org_url = "https://www.unicef.org/"
-parent_org_url_legal = "https://www.unicef.org/legal"
+parent_org_name = "Rochester Institute of Technology"
+parent_org_url = "https://www.rit.edu/"
+parent_org_url_legal = "https://www.rit.edu/legal"
 
 [params.footer]
 mainSite = "https://www.unicefinnovationfund.org/"
 mainSiteName = "UNICEF Innovation Fund"
-description = "The UNICEF Open Source Inventory is a knowledge-base of best practices, resources, and information about working and leading Open. This is maintained as part of the Open Source Mentorship programme offered by the UNICEF Innovation Fund. The Inventory provides mentorship and guidance to anyone seeking to adopt best practices in their journey to building an Open Source project and community. It is self-serve, and can be used at various phases of building a project and community."
+description = "The goal of this project is to get a broad understanding of the landscape of Open Work in Academia. It's this board is meant to be messy but allow for reasonably easy grouping of various organizations together, identifying key stakeholders within these organizations, and show everything in one place. It's all in progress and will hopefully result in a more structured output after a series of interviews with folks who are experts in the field of Open Work in academia."
 
 
 ############################# Social links #############################
 # themify icon pack : https://themify.me/themify-icons
 
-[[params.social]]
-icon = "ti-github"
-name = "UNICEF Open Source Inventory on GitHub"
-link = "https://github.com/unicef/inventory"
-
-[[params.social]]
-icon = "ti-twitter"
-name = "@UNICEFinnovate on Twitter"
-link = "https://twitter.com/UNICEFinnovate"
+# [[params.social]]
+# icon = "ti-github"
+# name = "UNICEF Open Source Inventory on GitHub"
+# link = "https://github.com/unicef/inventory"
+#
+# [[params.social]]
+# icon = "ti-twitter"
+# name = "@UNICEFinnovate on Twitter"
+# link = "https://twitter.com/UNICEFinnovate"
 
 
 ############################# Markup tweaks and customization #############################
@@ -242,16 +189,6 @@ unsafe = true
   downloadable = "downloadBtn"
 
 
-############################# Team Profiles #############################
-[[cascade]]
-  type = 'profiles'
-  [cascade._target]
-    path = '/cohorts/*/**'
-
-[[cascade]]
-  type = 'team'
-  [cascade._target]
-    path = '/cohorts/**'
 
 
 #######################################################################################
@@ -274,17 +211,3 @@ bg_image = "images/banner.jpg"
 placeholder = "Have a question? Search the site here."
 
 
-############################# Español / Spanish #############################
-[Languages.es]
-languageName = "es"
-languageCode = "es-mx"
-weight = 2
-home = "Página principal"
-copyright = "Creative Commons BY-SA 4.0"
-
-# banner
-[Languages.es.params.banner]
-title = "Inventario de Open Source de UNICEF"
-subtitle = "Una base de conocimientos de innovación mundial del UNICEF sobre mejores prácticas y recursos para trabajar y dirigir Open."
-bg_image = "images/banner.jpg"
-placeholder = "¿Tienes una pregunta? Busque en el sitio aquí."
