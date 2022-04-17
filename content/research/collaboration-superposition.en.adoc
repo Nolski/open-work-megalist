@@ -1,0 +1,11 @@
+---
+title: "COLLABORATION THROUGH OPEN SUPERPOSITION: A THEORY OF THE OPEN SOURCE WAY"
+description: 
+tags: ["tool", "data", "open source", "collaboration"]
+categories: "research"
+downloadBtn: "true"
+
+---
+:toc:
+
+https://arxiv.org/pdf/2109.01694.pdf

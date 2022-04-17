@@ -139,8 +139,8 @@ parent_org_url = "https://www.rit.edu/"
 parent_org_url_legal = "https://www.rit.edu/legal"
 
 [params.footer]
-mainSite = "https://www.unicefinnovationfund.org/"
-mainSiteName = "UNICEF Innovation Fund"
+mainSite = "https://openr.it"
+mainSiteName = "Open@RIT"
 description = "The goal of this project is to get a broad understanding of the landscape of Open Work in Academia. It's this board is meant to be messy but allow for reasonably easy grouping of various organizations together, identifying key stakeholders within these organizations, and show everything in one place. It's all in progress and will hopefully result in a more structured output after a series of interviews with folks who are experts in the field of Open Work in academia."
 
 
@@ -205,8 +205,8 @@ copyright = "Creative Commons BY-SA 4.0. Site theme maintained by UNICEF. Origin
 
 # banner
 [Languages.en.params.banner]
-title = "UNICEF Open Source Inventory"
-subtitle = "A UNICEF Global Innovation knowledge base of best practices and resources for working and leading Open."
+title = "Open Work Network Inventory"
+subtitle = "A knowledge base of organizations, products, and platforms which support the development of Open Work in academia."
 bg_image = "images/banner.jpg"
 placeholder = "Have a question? Search the site here."
 

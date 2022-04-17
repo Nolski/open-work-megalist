@@ -1,0 +1,10 @@
+---
+title: "Crossref"
+description: Crossref makes research objects easy to find, cite, link, assess, and reuse.
+tags: ["platform", "journals", "data", "publishing"]
+categories: "reference-tracking"
+downloadBtn: "true"
+
+---
+:toc:
+

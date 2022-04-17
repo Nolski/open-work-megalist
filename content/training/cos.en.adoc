@@ -1,0 +1,10 @@
+---
+title: "Center for Open Science"
+description: At the Center for Open Science, our mission is to increase openness, integrity, and reproducibility of scholarly research.
+tags: ["tool", "data", "collaboration"]
+categories: "training"
+downloadBtn: "true"
+
+---
+:toc:
+

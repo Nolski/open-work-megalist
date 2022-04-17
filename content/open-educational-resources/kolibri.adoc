@@ -1,0 +1,10 @@
+---
+title: "Kolibri"
+description:   Kolibri v0.15 enables learning to continue seamlessly between home and school, or any other learning environment, without the Internet. 
+tags: ["open source", "platform", "offline", "app" ]
+categories: "open-educational-resources"
+downloadBtn: "true"
+
+---
+:toc:
+

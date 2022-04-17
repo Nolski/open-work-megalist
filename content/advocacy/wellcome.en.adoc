@@ -1,0 +1,9 @@
+---
+title: "Wellcome"
+description: Wellcome wants the research we fund to be open and accessible, so it can have the greatest possible impact.
+tags: ["health", "open access", "funder", "organization"]
+categories: "advocacy"
+downloadBtn: "true"
+
+---
+:toc:

@@ -1,0 +1,9 @@
+---
+title: "Chorus"
+description: CHORUS brings together funders, publishers, institutions, and the public from across the open research ecosystem to share knowledge, develop solutions, advance innovation, and support collective efforts.
+tags: ["open research", "publishing", "organization"]
+categories: "advocacy"
+downloadBtn: "true"
+
+---
+:toc:

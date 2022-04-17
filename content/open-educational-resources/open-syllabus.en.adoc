@@ -1,0 +1,10 @@
+---
+title: "Open Syllabus Project"
+description: Open Syllabus is a non-profit research organization that collects and analyzes millions of syllabi to support novel teaching and learning applications.
+tags: ["proprietary", "platform", "data" ]
+categories: "open-educational-resources"
+downloadBtn: "true"
+
+---
+:toc:
+

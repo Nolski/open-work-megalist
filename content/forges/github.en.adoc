@@ -1,8 +1,8 @@
 ---
-title: "Intro to Creative Commons licenses"
-description: A crash course on Creative Commons licenses and how they are applied at the UNICEF Venture Fund.
-tags: ["content", "licenses", "legal"]
-categories: "legal"
+title: "GitHub"
+description: GitHub is the largest software development collaboration platform (AKA "Forge") in the world.
+tags: ["proprietary", "platform", "software"]
+categories: "collaboration"
 downloadBtn: "true"
 
 ---

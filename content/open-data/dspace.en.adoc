@@ -1,0 +1,10 @@
+---
+title: "Dura Space"
+description: DSpace is the software of choice for academic, non-profit, and commercial organizations building open digital repositories.
+tags: ["open source", "self hosted", "unstructured"]
+categories: "open-data"
+downloadBtn: "true"
+
+---
+:toc:
+

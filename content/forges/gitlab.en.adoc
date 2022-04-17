@@ -1,0 +1,10 @@
+---
+title: "GitLab"
+description: GitLab is the predominant open source software collaboration platform.
+tags: ["open source", "platform", "software"]
+categories: "collaboration"
+downloadBtn: "true"
+
+---
+:toc:
+

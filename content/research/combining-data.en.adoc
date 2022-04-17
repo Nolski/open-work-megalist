@@ -1,0 +1,11 @@
+---
+title: "Why it takes a village to manage and share data"
+description: 
+tags: ["tool", "data", "collaboration"]
+categories: "research"
+downloadBtn: "true"
+
+---
+:toc:
+
+https://arxiv.org/pdf/2109.01694.pdf

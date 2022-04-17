@@ -1,7 +1,7 @@
 ---
 title: "Peer Review"
 icon: "ti-ink-pen"
-description: "Frameworks, models, and references of building a governance structure for Open works."
+description: "Assisting the process of peer review on Open Work materials."
 type: "docs"
 
 ---

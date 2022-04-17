@@ -1,0 +1,10 @@
+---
+title: "Arxiv"
+description: arXiv is a free distribution service and an open-access archive for 2,051,413 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
+tags: ["platform", "journals", "publishing", "math", "science", "engineering" ]
+categories: "publishing"
+downloadBtn: "true"
+
+---
+:toc:
+

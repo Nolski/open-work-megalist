@@ -1,0 +1,9 @@
+---
+title: "SPARC"
+description: SPARC focuses on encouraging new norms, practices, and policies for knowledge sharing that address the ways in which racism, colonialism, and other forms of discrimination limit whose voices are heard, whose interests are prioritized, and whose knowledge counts
+tags: ["policy", "reports", "decolonialism", "organization"]
+categories: "advocacy"
+downloadBtn: "true"
+
+---
+:toc:

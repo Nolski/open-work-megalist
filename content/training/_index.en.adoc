@@ -1,7 +1,7 @@
 ---
 title: "Academic Training on Open Work"
-icon: "ti-loop"
-description: "Building and developing reproducible code, science, and data."
+icon: "ti-thought"
+description: "Organizations and technologies specifically focused on training academics on Open Work."
 type: "docs"
 categories: "reproducibility"
 

@@ -1,0 +1,9 @@
+---
+title: "Code of Science and Society"
+description: Strategic Support for Public Technology
+tags: ["software", "open source", "sustainability", "organization"]
+categories: "advocacy"
+downloadBtn: "true"
+
+---
+:toc:

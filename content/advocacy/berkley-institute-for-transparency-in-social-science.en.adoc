@@ -1,0 +1,9 @@
+---
+title: "Berkeley Initiative for Transparency in the Social Sciences"
+description: The Berkeley Initiative for Transparency in the Social Sciences works to improve the credibility of science by advancing transparency, reproducibility, rigor, and ethics in research
+tags: ["research", "OER", "policy", "university", "organization"]
+categories: "advocacy"
+downloadBtn: "true"
+
+---
+:toc:

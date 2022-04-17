@@ -1,0 +1,10 @@
+---
+title: "Zenodo"
+description: Zenodo helps researchers receive credit by making the research results citable
+tags: ["open source", "platform", ]
+categories: "open-data"
+downloadBtn: "true"
+
+---
+:toc:
+

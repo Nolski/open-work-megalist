@@ -1,0 +1,10 @@
+---
+title: "Jupyter Notebook"
+description: The Jupyter Notebook is the original web application for creating and sharing computational documents.
+tags: ["open source", "tool", "science", "software"]
+categories: "collaboration"
+downloadBtn: "true"
+
+---
+:toc:
+

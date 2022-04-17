@@ -1,5 +1,8 @@
 ---
 title: "Open Data"
+icon: "ti-agenda"
+description: "Resources related to open work identity management"
+type: "docs"
 
 ---
 

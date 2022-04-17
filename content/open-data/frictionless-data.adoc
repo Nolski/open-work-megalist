@@ -1,0 +1,10 @@
+---
+title: "Frictionless Data"
+description: Frictionless Data is a progressive open-source framework for building data infrastructure – data management, data integration, data flows, etc. It includes various data standards and provides software to work with data.
+tags: ["open source", "tool", "standards"]
+categories: "open-data"
+downloadBtn: "true"
+
+---
+:toc:
+

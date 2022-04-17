@@ -1,0 +1,10 @@
+---
+title: "Dataverse"
+description: The Dataverse Project is an open source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others, and allows you to replicate others' work more easily
+tags: ["open source", "tool", "self hosted"]
+categories: "open-data"
+downloadBtn: "true"
+
+---
+:toc:
+

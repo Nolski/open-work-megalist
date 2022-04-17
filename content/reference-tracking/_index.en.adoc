@@ -1,7 +1,7 @@
 ---
 title: "Tracking Open Work References"
-icon: "ti-comments-smiley"
-description: "Real communities of practice for you to meet and explore."
+icon: "ti-target"
+description: "All things related to citations and tracking"
 type: "docs"
 
 ---

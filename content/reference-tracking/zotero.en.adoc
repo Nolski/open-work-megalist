@@ -1,0 +1,10 @@
+---
+title: "Zotero"
+description: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
+tags: ["tool", "journals", "data"]
+categories: "reference-tracking"
+downloadBtn: "true"
+
+---
+:toc:
+

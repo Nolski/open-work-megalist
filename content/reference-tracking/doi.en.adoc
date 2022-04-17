@@ -1,0 +1,10 @@
+---
+title: "DOI"
+description: The Digital Object Identifier (DOI) System is a system for identifying citeable works.
+tags: ["platform", "journals", "publishing"]
+categories: "reference-tracking"
+downloadBtn: "true"
+
+---
+:toc:
+

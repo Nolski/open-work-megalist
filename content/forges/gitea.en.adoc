@@ -1,0 +1,10 @@
+---
+title: "Gitea"
+description: Gitea is a simple open source alternative to GitLab or Github.
+tags: ["open source", "platform", "software"]
+categories: "collaboration"
+downloadBtn: "true"
+
+---
+:toc:
+

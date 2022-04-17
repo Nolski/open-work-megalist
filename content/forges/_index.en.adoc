@@ -1,7 +1,7 @@
 ---
-title: "Open Work Forges"
-icon: "ti-anchor"
-description: ""
+title: "Open Work Collaboration Platforms"
+icon: "ti-hummer"
+description: "Platforms & tools for collaborating on Open Work"
 type: "docs"
 
 ---

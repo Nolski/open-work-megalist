@@ -1,0 +1,10 @@
+---
+title: "SciELO"
+description: The SciELO network supports cooperation among countries to  maximize the visibility, accessibility, usage and impact of articles,  journals, collections of journals and the network of collections.
+tags: ["platform", "open source", "journals", "books", "publishing" ]
+categories: "publishing"
+downloadBtn: "true"
+
+---
+:toc:
+

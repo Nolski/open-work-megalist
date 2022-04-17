@@ -1,0 +1,10 @@
+---
+title: "Open Textbook Library"
+description: Textbooks in the Open Textbook Library are considered open because they are free to use and distribute, and are licensed to be freely adapted or changed with proper attribution.
+tags: ["open source", "platform", "data", "textbooks" ]
+categories: "open-educational-resources"
+downloadBtn: "true"
+
+---
+:toc:
+

@@ -1,0 +1,9 @@
+---
+title: "SHARE"
+description: SHARE is an open-source community developing tools and services to connect related research outputs for new kinds of scholarly discovery
+tags: ["software", "open research", "discovery", "organization"]
+categories: "advocacy"
+downloadBtn: "true"
+
+---
+:toc:

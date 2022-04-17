@@ -1,0 +1,10 @@
+---
+title: "ORCID"
+description: ORCID provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher.
+tags: ["platform", "research", "software"]
+categories: "collaboration"
+downloadBtn: "true"
+
+---
+:toc:
+

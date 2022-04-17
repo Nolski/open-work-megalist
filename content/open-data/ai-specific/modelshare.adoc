@@ -1,0 +1,10 @@
+---
+title: "AI Model Share"
+description: The objective of the AI Model Share Initiative is to develop tools that democratize access to, and understanding of, machine learning models.
+tags: ["open source", "platform", "hosting", "machine learning"]
+categories: "open-data"
+downloadBtn: "true"
+
+---
+:toc:
+

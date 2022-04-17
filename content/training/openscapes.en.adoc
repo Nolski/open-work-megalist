@@ -1,0 +1,10 @@
+---
+title: "Openscapes"
+description: At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster.
+tags: ["documents", "collaboration", "environmental science"]
+categories: "training"
+downloadBtn: "true"
+
+---
+:toc:
+

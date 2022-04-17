@@ -1,0 +1,10 @@
+---
+title: "Mozilla Open Leaders"
+description: Mozilla Open Leaders started in 2016 to make openness the norm in innovation and research. 
+tags: ["documents", "collaboration"]
+categories: "training"
+downloadBtn: "true"
+
+---
+:toc:
+
