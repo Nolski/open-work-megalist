@@ -6,5 +6,19 @@ categories: "collaboration"
 downloadBtn: "true"
 
 ---
+
 :toc:
 
+GitHub is by far the most popular code hosting website on the internet. It is owned by Microsoft and used by millions.
+
+== What do they do?
+
+Provide a software-as-a-service platform that allows you to host code using the version control system "git".
+
+== Why might this be important to me?
+
+You have many options for hosting git repositories. Github is the most popular.
+
+== Considerations to make
+
+GitHub is a proprietary service owned by Microsoft Corporation

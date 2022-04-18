@@ -34,71 +34,6 @@ hasChildren = true
     url = "communities"
     weight = 10
 
-	[[menu.main]]
-	parent = "pages"
-	name = "Data Ethics & Transparency"
-	url = "data"
-	weight = 20
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Developer Tools & Automation"
-    url = "dev-tools"
-    weight = 40
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Documentation"
-    url = "documentation"
-    weight = 50
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Governance"
-    url = "governance"
-    weight = 60
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Legal & Policy"
-    url = "legal-policy"
-    weight = 70
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Meta"
-    url = "meta"
-    weight = 80
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Missions"
-    url = "missions"
-    weight = 90
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Open Hardware"
-    url = "hardware"
-    weight = 100
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Project Management"
-    url = "project-management"
-    weight = 110
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Reproducibility"
-    url = "reproducibility"
-    weight = 120
-
-    [[menu.main]]
-    parent = "pages"
-    name = "Sustainability"
-    url = "sustainability"
-    weight = 130
 
 
 
@@ -113,7 +48,7 @@ author = "Mike Nolan, Open@RIT"
 image = "images/UNI309823.jpg"
 
 # customize color
-primary_color = "#1CABE2"
+primary_color = "#F76902"
 body_color = "#D8D1C9"
 text_color = "#777779"
 text_color_dark = "#374EA2"

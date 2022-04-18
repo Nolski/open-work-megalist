@@ -6,5 +6,19 @@ categories: "collaboration"
 downloadBtn: "true"
 
 ---
+
 :toc:
 
+Gitea is a painless self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLab. Gitea is a fork of Gogs. See the https://blog.gitea.io/2016/12/welcome-to-gitea/[Gitea Announcement blog post] to read about the justification for a fork.
+
+== What do they do?
+
+Maintain the code hosting project Gitea.
+
+== Why might this be important to me?
+
+You have many options for hosting git repositories. Gitea is considered the *easiest* self-hosted choice. 
+
+== Considerations to make
+
+Gitea is *only* self-hosted so if you're looking for a service where you do not have to maintain a webserver, this is not the choice for you.
