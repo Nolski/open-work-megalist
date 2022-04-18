@@ -6,4 +6,25 @@ categories: "advocacy"
 downloadBtn: "true"
 
 ---
+
 :toc:
+
+SHARE is a community open-source initiative developing tools and services to connect related, yet distributed, research outputs, enabling new kinds of scholarly discovery. The National Endowment for the Humanities (NEH) is currently supporting SHARE in a project to integrate digital humanities into the scholarly web.
+
+*https://www.share-research.org/*
+
+== What do they do?
+
+Share is developing three projects currently:
+
+ 1. SHARE Notify: Set up feeds to receive notifications upon the release of research matching specified criteria, such as creator, topic, funder, data set, or publication
+ 2. Integrating Digital Humanities into the Web of Scholarship with SHARE: Resulted in the following https://doi.org/10.29242/report.share2019[white paper]
+ 3. OSF Preprints: A preprint repository to be used on https://osf.io
+
+== Why might this be important to me?
+
+ * If you utilize any of the above projects and would consider contributing, they are interested in having folks https://www.share-research.org/contact/contact-share/[reach out].
+
+== Considerations to make
+
+SHARE does not seem to provide any subgranting or funding.

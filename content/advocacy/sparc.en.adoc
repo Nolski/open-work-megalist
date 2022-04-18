@@ -6,4 +6,26 @@ categories: "advocacy"
 downloadBtn: "true"
 
 ---
+
 :toc:
+
+SPARC is a non-profit advocacy organization that supports systems for research and education that are open by default and equitable by design. We believe everyone should be able to access and contribute to the knowledge that shapes our world. 
+
+*https://sparcopen.org/*
+
+== What do they do?
+
+SPARC is predominantly an organization which advocates for change through policies and events:
+
+ 1. A collection of policies they are actively advocating for can be found https://sparcopen.org/what-we-do/active-policy/[here].
+ 2. You can find a collection of their research projects https://sparcopen.org/what-we-do/projects/[here].
+ 3. They also host a number of webinars, events, and working groups that can be found https://sparcopen.org/events/[here].
+
+== Why might this be important to me?
+
+SPARC is a membership organization that advocates for policies around Open. 
+Members are generally representatives from university libraries but those interested in joining should https://sparcopen.org/become-a-member/[consider doing so.]
+
+== Considerations to make
+
+None.

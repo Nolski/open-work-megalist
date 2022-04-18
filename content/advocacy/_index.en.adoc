@@ -5,3 +5,5 @@ description: "Institutions and organizations which are advocating for Open Work 
 type: "docs"
 
 ---
+
+:toc:

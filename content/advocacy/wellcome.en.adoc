@@ -6,4 +6,27 @@ categories: "advocacy"
 downloadBtn: "true"
 
 ---
+
 :toc:
+
+Wellcome supports science to solve the urgent health challenges facing everyone.
+
+We support discovery research into life, health and wellbeing, and we're taking on three worldwide health challenges: mental health, infectious disease and climate.
+
+Wellcome is a politically and financially independent global charitable foundation, funded by a £38.2 billion investment portfolio.
+
+Our strategy includes grant funding, advocacy campaigns and partnerships to find solutions for today's urgent health challenges.
+
+*https://wellcome.org/*
+
+== What do they do?
+
+Wellcome is primarily a funder and research organization that focuses on the topics of *mental health*, infectious disease, climate and health, and discovery research.
+
+== Why might this be important to me?
+
+If your work includes the topics listed above, you may be interested in investigating https://wellcome.org/grant-funding/schemes[grant funding opportunities].
+
+== Considerations to make
+
+Wellcome predominantly focuses on Open Work related to health.

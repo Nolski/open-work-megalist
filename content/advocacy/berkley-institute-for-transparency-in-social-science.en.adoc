@@ -7,3 +7,24 @@ downloadBtn: "true"
 
 ---
 :toc:
+
+
+The Berkeley Initiative for Transparency in the Social Sciences works to improve the credibility of science by advancing transparency, reproducibility, rigor, and ethics in research.
+
+*https://www.bitss.org*
+
+== What do they do?
+
+They collaborate with researchers, students, faculty, publishers, and funders across disciplines to:
+
+1. Generate evidence on problems and solutions in science through meta-research led by BITSS investigators and our broader community.
+2. Increase access to open science education, building capacity to recognize and conduct transparent and reproducible science through training, access to curricula, financial support, and a growing network of advocates and allies.
+3. Strengthen the scientific ecosystem, enabling researchers and institutions to effectively and equitably change norms at scale through open science policy and protocol development.
+
+== Why might this be important to me?
+
+If you are interested in what Open Work may look like in the social sciences and finding best practices this organization is worth reaching out to.
+
+== Considerations to make
+
+Focused only on social science disciplines.

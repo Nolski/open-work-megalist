@@ -6,4 +6,27 @@ categories: "advocacy"
 downloadBtn: "true"
 
 ---
+
 :toc:
+
+CS&S is a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship and other programs supporting sustainable open source.
+
+*https://codeforscience.org/*
+
+== What do they do?
+
+They currently have three primary services:
+
+ * They serve as a fiscal sponsor for a number of projects
+ * They help fund events that "cultivate the relationships and skills needed for more equitable next-generation scientific practices, infrastructures, and technologies."
+ * They run a digital infrastructure incubator that helps implement best practices in sustainability, governance, and community health
+
+== Why might this be important to me?
+
+If you are in need of a fiscal sponsor, you may want to take a look at  https://codeforscience.org/sponsored-projects/[some of their projects].
+
+If you're trying to develop a community of practice around a software project that you think might be considered a "digital infrastructure", their https://incubator.codeforscience.org/[incubator project] may be of interest to you.
+
+== Considerations to make
+
+CS&S is mostly focused on *code* and therefore other, non-software, types of Open Work may not be as applicable to their services.

@@ -6,4 +6,28 @@ categories: "advocacy"
 downloadBtn: "true"
 
 ---
+
 :toc:
+
+CHORUS brings together funders, publishers, institutions, and the public from across the open research ecosystem to share knowledge, develop solutions, advance innovation, and support collective efforts.
+
+*https://www.chorusaccess.org/*
+
+== What do they do?
+
+CHORUS does a number of things:
+
+ * Provide trusted information about the outputs of funded research
+ * Help funders, institutions, publishers, and the public see, find, and understand the status of the outputs of funded research
+ * Identify research outputs that are easily and permanently discoverable and accessible by anyone in the world
+ * Minimize compliance burdens for researchers, institutions, funders, and publishers
+ * Deliver optimized search and dashboard services for monitoring and compliance
+
+== Why might this be important to me?
+
+ * Consider resources by CHORUS when looking to adhere to funding agency requirements
+ * Optimize your articles Search Engine Optimization 
+
+== Considerations to make
+
+None.
