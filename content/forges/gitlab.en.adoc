@@ -9,16 +9,17 @@ downloadBtn: "true"
 
 :toc:
 
-GitHub is by far the most popular code hosting website on the internet. It is owned by Microsoft and used by millions.
+GitLab is the largest and most fully featured git hosting platform. It has both an "enterprise" and "community" version.
 
 == What do they do?
 
-Provide a software-as-a-service platform that allows you to host code using the version control system "git".
+GitLab provides a service similar to GitHub via https://gitlab.com.
+However, because the "community" version is open source, you can host an instance yourself as well.
 
 == Why might this be important to me?
 
-You have many options for hosting git repositories. Github is the most popular.
+You have many options for hosting git repositories. GitLab is the most popular *open source* version.
 
 == Considerations to make
 
-GitHub is a proprietary service owned by Microsoft Corporation
+GitLab differentiates itself from smaller platforms like Gitea by providing features like static webpage hosting and continuous integration support.

@@ -6,5 +6,28 @@ categories: "collaboration"
 downloadBtn: "true"
 
 ---
+
 :toc:
 
+Jupyter includes a number of smaller projects
+
+JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning. A modular design invites extensions to expand and enrich functionality.
+
+The Jupyter Notebook is the original web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience.
+
+== What do they do?
+
+As per this https://odsc.medium.com/why-you-should-be-using-jupyter-notebooks-ea2e568c59f2[Open Data Science Article]:
+
+> A Jupyter Notebook provides you with an easy-to-use, interactive data science environment that doesn’t only work as an integrated development environment (IDE), but also as a presentation or educational tool. Jupyter is a way of working with Python inside a virtual “notebook” and is growing in popularity with data scientists in large part due to its flexibility. It gives you a way to combine code, images, plots, comments, etc., in alignment with the step of the “data science process.” Further, it is a form of interactive computing, an environment in which users execute code, see what happens, modify, and repeat in a kind of iterative conversation between the data scientist and data. Data scientists can also use notebooks to create tutorials or interactive manuals for their software.
+
+These are specific tools to be used by data scientists or others who may be interested in having interactive step by step programming experiences.
+
+== Why might this be important to me?
+
+ * If you are a scientist looking to combine code, images, plots, etc. in a single unified experience
+ * If you have a script that you would like to share in a more visual way.
+
+== Considerations to make
+
+None

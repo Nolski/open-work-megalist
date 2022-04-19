@@ -6,5 +6,24 @@ categories: "open-data"
 downloadBtn: "true"
 
 ---
+
 :toc:
+
+The AI Model Share Project acts as a lab for machine learning innovation at Columbia University.
+The project is currently piloting the AI Model Share Platform (see https://modelshare.org) throughout 2021-2022 at Columbia. 
+Its mission is to generate the tools needed to assist students, faculty, and the wider data science community to bring machine learning innovations to all manner of end-users.
+
+*https://modelshare.org/*
+
+== What do they do?
+
+Provide a platform for sharing and using AI models as well as included dashboards.
+
+== Why might this be important to me?
+
+ * If you are a researcher producing AI models as part of your work, consider this as a potential place to share the models themselves.
+
+== Considerations to make
+
+None
 

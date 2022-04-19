@@ -6,5 +6,22 @@ categories: "collaboration"
 downloadBtn: "true"
 
 ---
+
 :toc:
+
+Gravatar is a service for having one profile in lots of places.
+
+*https://en.gravatar.com/*
+
+== What do they do?
+
+Gravatar is a free service that allows for websites to import people's profiles & profile photos without having to host & maintain them.
+
+== Why might this be important to me?
+
+ * If you are creating a web service and don't want to worry about uploading profile photos & other profile information.
+
+== Considerations to make
+
+None
 
